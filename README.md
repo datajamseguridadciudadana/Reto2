@@ -9,6 +9,11 @@ El prolongado fenómeno de violencia colombiana generó un alto número de víct
 Comunidades migrantes : 
 Como ejemplo de las condiciones de estas comunidades se expone el caso de la población migrante venezolana. Este proceso inicia con la migración de empresarios y profesionales, entre 2010 y 2014 del cual no se tienen registros representativos que indiquen algún tipo de opinión sobre el particular. Fue hacia el segundo semestre de 2015 cuando, tras la masiva expulsión de colombianos por parte de Venezuela se empezaron a evidenciar noticias negativas de los migrantes, independientemente de que fueran venezolanos, colombo-venezolanos o colombianos que retornaban al país. Esta percepción mantuvo una constante entre 2017 y principios de 2018, y estuvo caracterizada por señalar que la migración venezolana generaba aumentos en la actividad delictiva, especialmente en delitos como homicidio, hurto y contrabando. Desde mediados de 2018, las  organizaciones humanitarias, la Iglesia y entidades públicas, empiezan a visibilizar al migrante como una víctima de su situación. 
 
-Set de datos sugeridos: los cuales pueden ser consultados a través del Portal microdatos del DANE (https://microdatos.dane.gov.co), Observatorio de Memoria y Conflicto del CNMH (http://centrodememoriahistorica.gov.co/observatorio/bases-de-datos/datos/), Cifras de la Unidad de Victimas (https://cifras.unidadvictimas.gov.co/), Datos de USAID (https://data.usaid.gov/)
+Set de datos sugeridos: los cuales pueden ser consultados  a través de:
+-Portal microdatos del DANE (https://microdatos.dane.gov.co)
+-Observatorio de Memoria y Conflicto del CNMH (http://centrodememoriahistorica.gov.co/observatorio/bases-de-datos/datos/)
+-Cifras de la Unidad de Victimas (https://cifras.unidadvictimas.gov.co/)
+-Datos de USAID (https://data.usaid.gov/)
+
 Con el objetivo de optimizar la búsqueda y descarga de los mencionados Set de datos, los participantes los encontraran el repositorio dispuesto  y en el repositorio que dispone lapor la  organización del evento en el link de acceso GitHub:
 https://github.com/datajamseguridadciudadana/Reto2
