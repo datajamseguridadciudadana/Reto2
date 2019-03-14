@@ -1,1 +1,19 @@
 https://data.humdata.org/dataset/distribucion-facebook
+Interpretación de Variables:
+
+Las primeras columnas en cada archivo identifican las ubicaciones, nombre de municipio, departamento o país según corresponda, la DIVIPOLA o el código que identifica cada ubicación, la población total y en el archivo de municipios en Colombia la información sobre latitud y longitud.
+
+Para cada ubicación en los archivos se especifican 3 columnas, por cada fecha de recolección:
+
+mau_audience = monthly active users, es el dato que representa el valor estimado de usuarios mensuales al que el API de Mercadeo puede llegar. Es el dato que se usa para operaciones o mapeos. El valor mínimo que arroja Facebook es 1000, las ubicaciones con valor 0, son ubicaciones que no se encontraron dentro de Facebook o bien el valor diario de usuarios es 0
+
+dau_audience = daily active users,   es el dato que representa el valor estimado de usuarios diarias al que el API de Mercadeo puede llegar. Usamos este dato para validar el valor mensual, en caso de que este valor mensual sea 1000 y el valor diario sea 0, dejamos el valor de 0.
+
+indicador_presion = tasa de posibles nuevos usuarios venezolanos en la ubicación por cada 100000 habitantes, (mau_audience/poblacion total)*100000
+
+Estas 3 columnas se repiten para cada fecha en que se recolectaron los datos, esta fecha esta especificada al final del nombre de cada columna. Los datos se han recolectado desde Septiembre del 2018 a la fecha, cada 2 semanas.
+
+mau_audience_sep30 
+dau_audience_sep30
+indicador_presion_sep30
+Datos recolectados el 30 de Septiembre de 2018
